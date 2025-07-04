@@ -1,4 +1,4 @@
-# Amazon Clone Project
+# Amazon Clone Project(only for learning purpose)
  Building an E-commerce Website from Scratch using HTML, CSS, and JavaScript
 
 ## Introduction
